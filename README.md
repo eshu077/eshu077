@@ -11,7 +11,7 @@ Currently exploring <b>AI-powered assistants</b>, <b>machine learning pipelines<
 
 <h2>🚀 <b>About Me</b></h2>
 
-- 🔭 Currently building <b>Avinya AI</b> — a next-gen personal AI assistant  
+- 🔭 Currently building <b>Avinya AI</b> — a next-gen personal AI Internship Recommendation Engine.
 - 🌱 Learning and growing with <b>Machine Learning, Deep Learning, and Next.js</b>  
 - 💬 Ask me about <b>Python, AI Models, Web Apps, or Data Science</b>  
 - 🧠 I love blending <b>logic with creativity</b> — turning data into design  
