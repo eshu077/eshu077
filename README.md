@@ -1,6 +1,5 @@
-👋 Hey there, I'm Eshu Sharma (aka eshu077
-)
-💡 AI Innovator | Full Stack Developer | Open Source Enthusiast
+#👋 Hey there, I'm Eshu Sharma (aka eshu077)
+###💡 AI Innovator | Full Stack Developer | Open Source Enthusiast
 
 I’m passionate about transforming ideas into intelligent, human-centered, and scalable digital experiences.
 Currently exploring AI-powered assistants, machine learning pipelines, and full-stack web apps that make technology more personal and accessible.
